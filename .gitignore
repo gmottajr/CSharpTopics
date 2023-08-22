@@ -3,3 +3,7 @@
 ################################################################################
 
 /LanguageTopics/.vs
+/LanguageTopics/LanguageTopics/bin/Debug/net6.0
+/LanguageTopics/LanguageTopics/obj
+/LanguageTopics/LanguageTopicsTests/bin/Debug/net6.0
+/LanguageTopics/LanguageTopicsTests/obj
